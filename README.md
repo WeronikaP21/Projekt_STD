@@ -1,1 +1,2 @@
-# Projekt_STD
+# Projekt_STD 
+Projekt Weronika Plichta, Wojciech Łukomski
